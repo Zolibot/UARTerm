@@ -1,0 +1,4 @@
+*.bin
+test_uart/
+.clinerules-*
+.obsidian/
